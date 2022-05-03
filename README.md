@@ -5,7 +5,7 @@ A shiny app showing the Homicide incidents in the United States
  
 ##How to recreate the aplication
 
-Download the Homicide folder
+Download the zipped Homicide folder
 
 Open the R Project
 
